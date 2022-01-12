@@ -2,7 +2,7 @@
 ## Web Developer
 ![Web Developer](https://indieseducation.b-cdn.net/wp-content/uploads/2020/05/Full-stack-1.jpg)
 
-I'm Full-stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I am passionate about  what I do and always give 100% .When I undertake a project or task , I don't just complete it, I go the extra mile and make it better than requested.
+I'm Full-stack Web developer. I am passionate about  what I do and always give 100% .When I undertake a project or task , I don't just complete it, I go the extra mile and make it better than requested.
 
 Skills: REACT / JS / HTML / CSS
 
